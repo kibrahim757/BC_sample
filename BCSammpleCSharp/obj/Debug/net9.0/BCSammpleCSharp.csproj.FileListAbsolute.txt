@@ -1,0 +1,17 @@
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\bin\Debug\net9.0\BCSammpleCSharp.exe
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\bin\Debug\net9.0\BCSammpleCSharp.deps.json
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\bin\Debug\net9.0\BCSammpleCSharp.runtimeconfig.json
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\bin\Debug\net9.0\BCSammpleCSharp.dll
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\bin\Debug\net9.0\BCSammpleCSharp.pdb
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\obj\Debug\net9.0\BCSammpleCSharp.csproj.AssemblyReference.cache
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\obj\Debug\net9.0\BCSammpleCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\obj\Debug\net9.0\BCSammpleCSharp.AssemblyInfoInputs.cache
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\obj\Debug\net9.0\BCSammpleCSharp.AssemblyInfo.cs
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\obj\Debug\net9.0\BCSammpleCSharp.csproj.CoreCompileInputs.cache
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\obj\Debug\net9.0\BCSammpl.5FB4312F.Up2Date
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\obj\Debug\net9.0\BCSammpleCSharp.dll
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\obj\Debug\net9.0\refint\BCSammpleCSharp.dll
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\obj\Debug\net9.0\BCSammpleCSharp.pdb
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\obj\Debug\net9.0\BCSammpleCSharp.genruntimeconfig.cache
+C:\QC\PQC\samples\BC_sample\BCSammpleCSharp\obj\Debug\net9.0\ref\BCSammpleCSharp.dll

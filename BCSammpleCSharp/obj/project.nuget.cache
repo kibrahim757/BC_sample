@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IYLQFdGcZ9U=",
+  "success": true,
+  "projectFilePath": "C:\\QC\\PQC\\samples\\BC_sample\\BCSammpleCSharp\\BCSammpleCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
