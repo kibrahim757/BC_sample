@@ -16,7 +16,7 @@
             {
                 Console.SetOut(writer);
 
-                //TestHqc(args);
+                TestHqc(args);
                 TestKyber(args);
                 //TestSaber(args);
                 //TestNtru(args);
