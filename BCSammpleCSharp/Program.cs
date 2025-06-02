@@ -16,11 +16,11 @@
             {
                 Console.SetOut(writer);
 
-                TestHqc(args);
-                //TestKyber(args);
-                TestSaber(args);
-                TestNtru(args);
-                TestBike(args);
+                //TestHqc(args);
+                TestKyber(args);
+                //TestSaber(args);
+                //TestNtru(args);
+                //TestBike(args);
             }
         }
 
